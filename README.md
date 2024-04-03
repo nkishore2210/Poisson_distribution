@@ -1,5 +1,5 @@
-                                                            NAME:KISHORE N
-                                                            REG NO. 212222240049
+                                                               NAME:KISHORE N
+                                                               REG NO. 212222240049
 # Fitting Poisson  distribution
 
 # Aim : 
