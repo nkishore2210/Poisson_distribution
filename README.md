@@ -1,6 +1,6 @@
                                                                NAME:KISHORE N
                                                                REG NO. 212222240049
-# Fitting Poisson  distribution
+# EX-2: Fitting Poisson  distribution
 
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
